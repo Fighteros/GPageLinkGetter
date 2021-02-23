@@ -1,0 +1,15 @@
+https://developer.wordpress.org/reference/files/wp-admin/admin.php/&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQFjAAegQIAxAB&usg=AOvVaw1OGBkGwEobk2ReFspyYGqD
+https://wordpress.org/support/topic/forbidden-you-dont-have-permission-to-access-wp-admin-admin-php-on-this-server/&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQFjABegQIBhAB&usg=AOvVaw3JGO-5b6_ems1XCa5DCGkv
+https://wordpress.org/support/topic/forbidden-wp-admin-admin-php-issue/&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQrAIwAXoECAYQAw&usg=AOvVaw2i6Os2GDbcaZMEFAFRhGid
+https://wordpress.org/support/topic/403-forbidden-access-wp-admin-admin-php/&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQrAIwAXoECAYQBA&usg=AOvVaw3kwwoxR-mVpNBavECtqXMs
+https://wordpress.org/support/topic/wp-4-9-x-in-php-7-x-500-server-error-with-pages-using-wp-admin-admin-php/&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQrAIwAXoECAYQBQ&usg=AOvVaw3YX7lyWNIapdnkBCyALnei
+https://github.com/WordPress/WordPress/blob/master/wp-admin/admin.php&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQFjACegQIBxAB&usg=AOvVaw10r-fjNP1YZTO9CmEDJo85
+http://man.hubwiz.com/docset/WordPress.docset/Contents/Resources/Documents/developer.wordpress.org/reference/files/wp-admin/admin.php/index.html&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQFjADegQICRAB&usg=AOvVaw38VoEOg9iTCbroCjW2uMaG
+https://jjj.software/publicious.org/wordpress/-/blob/d47149fae7d8ad813195041ce0b998512c3c8ce3/wp-admin/admin.php&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQFjAEegQICBAB&usg=AOvVaw0nSqlWPF2cgY73nICTwXpB
+https://www.acunetix.com/vulnerabilities/web/wordpress-wp-admin-admin-php-module-configuration-security-bypass-vulnerability-0-6-2-2-8/&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQFjANegQIARAB&usg=AOvVaw0s5uK_Ieu1myETM5cxL3Wq
+https://www.quora.com/How-do-you-correct-%25E2%2580%259CFatal-error-Call-to-undefined-function-wp_raise_memory_limit-in-wp-admin-admin-PHP-on-line-141%25E2%2580%259D-in-WordPress&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQFjAOegQIBRAB&usg=AOvVaw1M3iwhNSKHYQZ8vXdnscjh
+https://code.aliyun.com/p/wordpress/blob/9431f91ff6eeb5e73cdeb0812bd0fc9d3590137f/wp-admin/admin.php&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQFjAPegQIBBAB&usg=AOvVaw1p_7rJsSTyUpqKrA4ioV9d
+https://plmlab.math.cnrs.fr/philippe.depouilly/wordpress/blob/94aa3922cb413937257553aabae88bdd398c37fd/wp-admin/admin.php&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQFjAQegQIABAB&usg=AOvVaw2U0uZ4kdhqKvqWMALgcQp0
+https://stackoverflow.com/questions/51744278/wp-admin-admin-php-give-404-error&sa=U&ved=2ahUKEwi5itfptP_uAhXic98KHVFMBlwQFjARegQIAhAB&usg=AOvVaw0MVFZl2eBHNq0dY80kQpYt
+https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Dar&sa=U&ved=0ahUKEwi5itfptP_uAhXic98KHVFMBlwQty4IUw&usg=AOvVaw1xbhOWpV1OYQGOGrRfD0gR
+https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.dz/search%253Fq%253Dinurl:/wp-admin/admin.php%25253F%26hl%3Dar&sa=U&ved=0ahUKEwi5itfptP_uAhXic98KHVFMBlwQxs8CCFQ&usg=AOvVaw1kWOlKTxSpPITPekYlo06u
